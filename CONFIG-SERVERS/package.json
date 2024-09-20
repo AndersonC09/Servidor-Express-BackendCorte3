@@ -1,0 +1,23 @@
+{
+  "name": "clase_backend",
+  "version": "1.0.1",
+  "description": "Aqui se guardara todos los conocimientos aprendidos durante las clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Yadir",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0",
+    "typescript-eslint": "^8.4.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
