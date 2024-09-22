@@ -1,1 +1,1 @@
-import "./types/examplesTypes";
+import './types/examplesTypes';
