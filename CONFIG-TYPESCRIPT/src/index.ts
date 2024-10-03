@@ -1,1 +1,2 @@
-import './types/examplesTypes';
+//import './types/typesData';
+import './types/exampleFuncionsTypeEscript';

@@ -22,7 +22,8 @@
     "no-restricted-syntax": "off",
     "max-len": "off",
     "linebreak-style": ["error", "windows"],
-    "no-console": "off"
+    "no-console": "off",
+    "quotes": ["error", "single"]
   }
 }
 
