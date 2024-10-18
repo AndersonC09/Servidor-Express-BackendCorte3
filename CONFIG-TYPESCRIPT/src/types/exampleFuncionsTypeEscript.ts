@@ -45,8 +45,8 @@ const index11 = auxString.indexOf('11');
 const index14 = auxString.indexOf('14');
 
 console.log(index10, 'index10');
-console.log(index11, 'index10');
-console.log(index14, 'index10');
+console.log(index11, 'index11');
+console.log(index14, 'index14');
 
 //PUNTO 3
 

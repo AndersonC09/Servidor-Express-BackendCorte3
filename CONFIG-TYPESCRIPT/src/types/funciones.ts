@@ -7,5 +7,5 @@ console.log(number); // [1, 2, 3, 4, 5]
 // pop Elimina el último elemento de un array y lo devuelve. Si el array está vacío, devuelve undefined.
 
 let ultimoNumero = number.pop();
-console.log(ultimoNumero); // 3
-console.log(number);      // [1, 2]
+console.log(ultimoNumero);
+console.log(number);
